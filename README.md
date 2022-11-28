@@ -1,0 +1,2 @@
+# spikyGraphEquation
+equation that spikes
